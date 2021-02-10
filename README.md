@@ -20,3 +20,7 @@ kumpulan resource utk belajar kriptografi
 - Kumpulan materi kuliah dari dosen Harvard (FREE) https://intensecrypto.org/public/
 - Dari standford university (FREE) https://www.coursera.org/learn/crypto
 - Dari university of maryland (FREE) https://www.coursera.org/learn/cryptography
+
+## List of Other Awesome List
+- Awesome Cryptography https://github.com/sobolevn/awesome-cryptography
+- Awesome Crypto Papers https://github.com/pFarb/awesome-crypto-papers

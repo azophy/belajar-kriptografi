@@ -21,6 +21,9 @@ kumpulan resource utk belajar kriptografi
 - Dari standford university (FREE) https://www.coursera.org/learn/crypto
 - Dari university of maryland (FREE) https://www.coursera.org/learn/cryptography
 
+## Tools
+- Online Cipher Identifier & Analyzer http://www.boxentriq.com/code-breaking/cipher-identifier
+
 ## List of Other Awesome List
 - Awesome Cryptography https://github.com/sobolevn/awesome-cryptography
 - Awesome Crypto Papers https://github.com/pFarb/awesome-crypto-papers

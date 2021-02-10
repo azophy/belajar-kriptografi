@@ -5,7 +5,7 @@ kumpulan resource utk belajar kriptografi
 - https://id.wikipedia.org/wiki/Kriptografi
 
 ## Komunitas
-- t.me/kriptografiid
+- https://t.me/kriptografiid
 
 ## Buku
 - Crypto101 - Introductionary course on Cryptography (FREE) https://www.crypto101.io/

@@ -7,8 +7,16 @@ kumpulan resource utk belajar kriptografi
 ## Komunitas
 - t.me/kriptografiid
 
+## Buku
+- Crypto101 - Introductionary course on Cryptography (FREE) https://www.crypto101.io/
+- A Graduate Course in Applied Cryptography (FREE) https://toc.cryptobook.us/
+- The joy of Cryptography (FREE) https://web.engr.oregonstate.edu/~rosulekm/crypto/
+
 ## Youtube
 - Channel edukasi dari salah satu perusahan keamana digital tertua di indonesia https://www.youtube.com/dymarjaya
 
 ## Kursus Online
-- https://www.coursera.org/learn/cryptography
+- (FREE) https://www.udacity.com/course/applied-cryptography--cs387
+- Kumpulan materi kuliah dari dosen Harvard (FREE) https://intensecrypto.org/public/
+- Dari standford university (FREE) https://www.coursera.org/learn/crypto
+- Dari university of maryland (FREE) https://www.coursera.org/learn/cryptography

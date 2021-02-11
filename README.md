@@ -26,5 +26,6 @@ kumpulan resource untuk belajar kriptografi. Setiap item diberi tanda 🇲🇨(I
 - 🇬🇧 Online Cipher Identifier & Analyzer http://www.boxentriq.com/code-breaking/cipher-identifier
 
 ## List of Other Awesome List
+- 🇲🇨 List referensi sejenis dari komunitas Reverse Engineering Indonesia https://github.com/ReversingID/Crypto-Reference
 - 🇬🇧 Awesome Cryptography https://github.com/sobolevn/awesome-cryptography
 - 🇬🇧 Awesome Crypto Papers https://github.com/pFarb/awesome-crypto-papers

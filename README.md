@@ -15,6 +15,7 @@ kumpulan resource untuk belajar kriptografi. Setiap item diberi tanda 🇲🇨(I
 ## Youtube
 
 - 🇲🇨 Channel edukasi dari salah satu perusahan keamana digital tertua di indonesia https://www.youtube.com/dymarjaya
+- 🇲🇨 Channel kuliah Kriptografi dari Informatika ITB https://www.youtube.com/channel/UCR7CdK1MwcQH2NHI6HoMSYA
 - 🇬🇧 Channel kelas Kriptografi oleh Prof. Dr. Christof Paar, dosen Ruhr University Bochum, Jerman https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg
 
 ## Kursus/Kuliah Online

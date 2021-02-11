@@ -13,7 +13,9 @@ kumpulan resource untuk belajar kriptografi. Setiap item diberi tanda 🇲🇨(I
 - 🇬🇧 The joy of Cryptography https://web.engr.oregonstate.edu/~rosulekm/crypto/
 
 ## Youtube
+
 - 🇲🇨 Channel edukasi dari salah satu perusahan keamana digital tertua di indonesia https://www.youtube.com/dymarjaya
+- 🇬🇧 Channel kelas Kriptografi oleh Prof. Dr. Christof Paar, dosen Ruhr University Bochum, Jerman https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg
 
 ## Kursus/Kuliah Online
 - 🇬🇧 https://www.udacity.com/course/applied-cryptography--cs387
